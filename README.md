@@ -42,7 +42,7 @@
 ## 📫 How to reach me
 
 - [GitHub Profile](https://github.com/Soham1736)
-
+- 📫 Mail: soham1736@gmail.com
 ---
 
 <p align="center">
